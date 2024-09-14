@@ -1,0 +1,5 @@
+bs4
+Faker
+urllib3
+requests
+rich_click
